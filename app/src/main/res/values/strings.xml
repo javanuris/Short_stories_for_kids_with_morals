@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawerLayoutAndDataBase</string>
+    <string-array name = "items">
+        <item>First</item>
+        <item>Second</item>
+        <item>Thirds</item>
+        <item>Forth</item>
+    </string-array>
+</resources>
